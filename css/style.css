@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    
+    background-color: slateblue;
+}
+h1{
+    text-align: center;
+    margin-top: 60px;
+    color: lightgreen;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+
+.item{
+    display: flex;
+    width: 70px;
+    height: 70px;
+    background-color: aqua;
+    margin: 5px;
+    justify-content: center;
+    align-items: center;
+
+}
